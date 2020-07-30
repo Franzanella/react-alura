@@ -1,3 +1,7 @@
+Projeto desenvolvido na semana de Imersão react do Alura
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Projeto em produção: https://franflix.vercel.app/
