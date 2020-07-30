@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Paper Mario: The Origami King é um jogo eletrônico de RPG desenvolvido pela Intelligent Systems e publicado pela Nintendo. É o sexto título da série Paper Mario e foi lançado em 17 de julho de 2020, exclusivamente para Nintendo Switch, como aniversário de 20 anos da série Paper Mario."}
       />
 
       <Carousel
