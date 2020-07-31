@@ -18,6 +18,7 @@ function CadastroVideo() {
   });
 
   useEffect(() => {
+    // eslint-disable-next-line linebreak-style
     categoriasRepository
       .getAll()
       .then((categoriasFromServer) => {
