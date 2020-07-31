@@ -243,24 +243,7 @@
       "categoriaId": 6,
       "titulo": "Super Smash Bros",
       "url": "https://www.youtube.com/watch?v=2BEjGGSnGRo"
-    },
-    {
-      "titulo": "Mario tennis",
-      "url": "https://www.youtube.com/watch?v=LEs1wZohOpo",
-      "categoriaId": 6,
-      "id": 33
-    },
-    {
-      "titulo": "Animal Crossing",
-      "url": "https://www.youtube.com/watch?v=7Z6WTNkoeE0",
-      "categoriaId": 1,
-      "id": 34
-    },
-    {
-      "titulo": "Animal Crossing",
-      "url": "https://www.youtube.com/watch?v=7Z6WTNkoeE0",
-      "categoriaId": 1,
-      "id": 35
     }
+  
   ]
 }
