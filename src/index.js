@@ -7,7 +7,8 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-
+// Desafio master blaster na descrição
+// eslint-disable-next-line semi
 const Pagina404 = () => (<div>Página 404</div>)
 
 ReactDOM.render(
@@ -19,5 +20,7 @@ ReactDOM.render(
       <Route component={Pagina404} />
     </Switch>
   </BrowserRouter>,
+  // eslint-disable-next-line comma-dangle
   document.getElementById('root')
+// eslint-disable-next-line eol-last
 );
