@@ -1,9 +1,9 @@
 Projeto desenvolvido na semana de Imersão react do Alura
 
 
-#Para rodar o projeto local: 
-#npm install
-#npm start
+# Para rodar o projeto local: 
+# npm install
+# npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
