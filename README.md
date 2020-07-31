@@ -4,6 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Projeto em produção: https://franflix.vercel.app/
 
+
+Heroku: 
+https://nintenflix.herokuapp.com/videos
+https://nintenflix.herokuapp.com/categorias
+
 ![Logo](https://user-images.githubusercontent.com/36767316/88962901-78f09880-d27d-11ea-9c24-0ce74aa6180f.png)
 
 ## Available Scripts
