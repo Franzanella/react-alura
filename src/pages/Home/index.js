@@ -22,7 +22,8 @@ function Home() {
   }, []);
 
   return (
-    <PageDefault paddingAll={0}>
+    // eslint-disable-next-line react/jsx-filename-extension
+    <PageDefault>
       {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
