@@ -23,7 +23,7 @@ function Home() {
 
   return (
     // eslint-disable-next-line react/jsx-filename-extension
-    <PageDefault>
+    <PageDefault paddingAll={0}>
       {dadosIniciais.length === 0 && (<div>Loading...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
